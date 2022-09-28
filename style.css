@@ -1,0 +1,26 @@
+body{
+	font-family:  Arial;
+}
+
+button {
+	margin: 10px;
+}
+
+.gen {
+	font-size: 30px;
+	margin: 10px;
+}
+
+circle {
+	fill: blue;
+}
+
+line {
+	stroke: darkblue;
+	stroke-width: 20px;
+}
+
+#frame {
+	width:  500px;
+	height: 500px;
+}

@@ -1,0 +1,4 @@
+//for example
+function buttonClicked() {
+	
+}
